@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-projectsiva123",
+  "private_key_id": "21aade1cc6eb3266826caeb2048bced765205b29",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+8v5WS3czT83h\n5BKNuXoAbbkYBNlEMX6j1Z/xJjdzQ93fAHfLEV2tW2adww+Yj7fLRwqvLsdIYDco\nbvPYknDyfdn7Kjdu/pr+J204ivOeZeuwFgzj0z6o3joKuOtDh8TgazZDKw9SiXVY\nXKL0jzY5MxIQ/71BRoD9GCpFfklyhjS+AiDtbZRrvPO4XJFvauZzzpfF29Fln1cP\nKKb1ZzERGwmcvqaoTEw84acZ5bYNb76gEp5ymrWISecFdMO6RjngsIsj8szQTJae\n7HQC/l6fvNnn2LHOxw6dfcKpYU1mbDP+wrgJxCfDYVYmz2xbbavZ7nnOM11YKBxg\n/SgySDvvAgMBAAECggEAPu5YsloWw/t2MA95qenJ8qA201qtvFLPmPFL0C83MS7Z\nzaga0vs7M2ofLLlfx3j+KumT9N5m4UyMgS/n/6Vrwg+GKsfkExmoPUEDNxJcbgTL\nI3Jw9xjk2sS6vlPpfY0ebpQHAyYK27nfyapmLlGQnlNdjeqrFftFgaRYMiUH0c0k\na7dxSpbYqIjw1D98jIuts1TBuPJM2H9fi80qs6GfCfhZikn2kpQLKeTbuizf9+Fn\nwlC7/fQqj8uPji43NVXWHf4inxnS3EwbdrxjeXbscX/nA3OLS+Uhgt4iKugwAZRn\n7T7+12uRjNNPn2YylKCY5aYTgoJDjI4GLNdwX5DFQQKBgQD6s8tkll+tKh7RROx5\nx09nl4Sjkg4GPZ8J3K0LNajk1SsfdTaUfkEzhP7r+sP30vq5bXCAoIOFYwDCHbQ9\nP0fz7FEcJAuXx/wZeUKiGGJdx9r8rvBxP9Qa9uvds7Zgp2hhu23tPGIhTAVpzLEg\ndgVuMTKtCsCUYy0kNPIuvSeFjwKBgQDC+/T9hyNLQynMh9gNXk/JEXofFn4cwy6b\nvbFUUSUP3+wgsQyI9131sfiXXM339tvC3Ptil4y44yLSOds5YspFe4XQ9PhPhWq4\nlrmj9F78/Hp4NkHuMNwPWYiT9bkEsNWmde4XEUrUmTkYeFgWyZ+AnEPjIkUwKG/K\nNcQzgrJzoQKBgD4qdUYFD8aFykyENctgw+zhIo/Y+MdNYnF0mihMbwwHXAEZ9KXP\nxOU8lmX3sb5zP57ZZ2tN4i8iRJ7d9MK3PWVb9STwPzus6HN8oSxGtaWhmEjOLGs4\ns6TYE9bO6GuBN538dx67uW2eRz1b95QgD+qqInHMV8Kz8Q6oXmF+oB07AoGAa6sv\nzHO8FIpA4ZU9w5wJmLES62nDN+S7rvpfmny4Z3yx6hd6IYPfGZYt/H8dqUhib8cQ\n9Y9UAKBEESwrlxOrOBUOfqVXHKpClS1900BU14QfqJPlcj7+tWcuWO2+Pg3b3HCQ\niaJd3OnDMnT5x5OMhTtE7X52EDK0EEgCUKNiISECgYEAnEfHI4dXx+5PIzipTcML\noKn/1QcQuhHSbfyRzoMDCYoOJUNZVVOE5wK37uzXeulPpoMPLWyu5WnHuRlR3fmV\nLkMYg0onENFJUFRzQ3ggDAU5tvRzlpwdeDr05St5m/Ix3asakTvDtnZfDpO/iN1R\nzozrH+PZvVaSTiLHtPB2R9c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mage-zoomcamp-319@my-projectsiva123.iam.gserviceaccount.com",
+  "client_id": "105046138701239134380",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mage-zoomcamp-319%40my-projectsiva123.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
